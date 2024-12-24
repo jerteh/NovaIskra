@@ -1,5 +1,5 @@
 # Нова Искра (издалека)
-## УНИЛИБ &amp; ЈеРТех :: пројекат у области културног наслеђа и библиотечко-информационе делатности 
+## УНИЛИБ &amp; ЈеРТех :: пројекат у области културног наслеђа и библиотечко-информационе делатности финансијски подржало Министарство културе Републике Србије
  
 | ![Naslovna Nove Iskre](img/nova-iskra.jpg) | **Nova Iskra** je ilustrovani list čije je vlasnik i odgovorni urednik bio Rista J. Odavić. Od 1911. godine vlasnik je Živojin O. Dačić. Izdavan je u Beogradu, od 1899. do 1911. godine sa prekidom u izlaženju od 1908. do 1910. Kada je počeo da izlazi, bio je jedini srpski ilustrovani književni list. |
 
@@ -8,6 +8,7 @@
 
 ### Циљ истраживања 
 - побољшање прецизности проналажења информација у тексту скенираних новинских страница
+- 
 ### Резултати
 - Проширивање упита
 - Проналажење, обележавање и екстракција кључних информација
